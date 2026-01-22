@@ -1,9 +1,4 @@
-
-
-
 /* Cancelling these properties as per Tailwind CSS v3.x migration guide */
-
-
 
 /* @tailwind base;
 @tailwind components;
@@ -11,5 +6,3 @@
 
 /* Replace old @tailwind directives with this: */
 @import "tailwindcss";
-
-
